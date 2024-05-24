@@ -1,0 +1,3 @@
+ini line awal
+line kedua
+line ketiga dst
